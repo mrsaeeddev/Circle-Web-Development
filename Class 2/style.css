@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid seagreen;
+}
+
+.text {
+    color: red;
+    margin: 50px;
+    padding: 10px;
+    border: 15px solid blue;
+}
+
+#heading2 {
+    color: blue;
+}
